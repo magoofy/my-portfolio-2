@@ -3,7 +3,7 @@ import Header from '../Header'
 
 const About = () => {
     return (
-        <main>
+        <main className='m-5'>
             <h2>About</h2>
             <p>
                 Hello! My name is Siosaia Akau, but I go by Afi (off-ee). I was born and raised in West Point, Utah, where I spent the first 19
