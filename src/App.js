@@ -8,8 +8,8 @@ import Resume from './Components/pages/Resume';
 
 function App() {
   return (
-    <Router>
-      <div>
+    <div>
+      <Router>
         <Header></Header>
         <Routes>
           <Route path="/" element={<About />} />
@@ -17,8 +17,8 @@ function App() {
           <Route path="/projects" element={<Projects />} />
           <Route path="/resume" element={<Resume />} />
         </Routes>
-      </div>
-    </Router>
+      </Router>
+    </div>
   );
 }
 

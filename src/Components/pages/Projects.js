@@ -1,5 +1,4 @@
 import React from 'react';
-import Header from '../Header'
 import homegrown from '../../images/homegrown-sc.jpg'
 import mtg from '../../images/mtg-sc2.png'
 import parkbuddy from '../../images/website-sc2.jpg'

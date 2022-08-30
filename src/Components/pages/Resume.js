@@ -1,5 +1,4 @@
 import React from 'react';
-import Header from '../Header';
 import resume from '../../images/Resume_SiosaiaAkau_page-0001.jpg'
 
 const Resume = () => {
