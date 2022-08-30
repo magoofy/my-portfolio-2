@@ -13,4 +13,4 @@ This Website is my starting portfolio for my Berkely Coding Bootcamp.
 
 ## Website
 
-https://magoofy.github.io/my-portfolio/
+https://magoofy.github.io/my-portfolio-2/
