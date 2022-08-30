@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/my-portfolio-2/static/css/main.a35721af.css",
+    "main.js": "/my-portfolio-2/static/js/main.579e077c.js",
+    "static/js/787.128fc6e9.chunk.js": "/my-portfolio-2/static/js/787.128fc6e9.chunk.js",
+    "static/media/Resume_SiosaiaAkau_page-0001.jpg": "/my-portfolio-2/static/media/Resume_SiosaiaAkau_page-0001.cae9803faccb0a66a6cc.jpg",
+    "static/media/mtg-sc2.png": "/my-portfolio-2/static/media/mtg-sc2.73391b1f3a09eee8adcd.png",
+    "static/media/website-sc2.jpg": "/my-portfolio-2/static/media/website-sc2.29b9ac50b29ef840b73b.jpg",
+    "static/media/homegrown-sc.jpg": "/my-portfolio-2/static/media/homegrown-sc.41cf33613dbbbea580aa.jpg",
+    "index.html": "/my-portfolio-2/index.html",
+    "main.a35721af.css.map": "/my-portfolio-2/static/css/main.a35721af.css.map",
+    "main.579e077c.js.map": "/my-portfolio-2/static/js/main.579e077c.js.map",
+    "787.128fc6e9.chunk.js.map": "/my-portfolio-2/static/js/787.128fc6e9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a35721af.css",
+    "static/js/main.579e077c.js"
+  ]
+}
