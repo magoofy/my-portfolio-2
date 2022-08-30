@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -68,3 +69,21 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+=======
+# Portfolio
+
+<img src="./public/site-sc-jpg" alt="hero of my website" />
+
+## Purpose
+
+This Website is my starting portfolio for my Berkely Coding Bootcamp.
+
+## Technologies Used/Learnt
+
+- REACT
+- GH Pages
+
+## Website
+
+https://magoofy.github.io/my-portfolio/
+>>>>>>> gh-pages

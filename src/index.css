@@ -11,3 +11,15 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+<<<<<<< HEAD
+=======
+
+a {
+  text-decoration: none;
+}
+
+p {
+  line-height: 37px;
+  font-size: 20px;
+}
+>>>>>>> gh-pages
